@@ -1,5 +1,4 @@
-﻿using System;
-namespace BlazingPizzaSite.Model
+﻿namespace BlazingPizzaSite.Model
 {
     public class PizzaSpecial
     {
@@ -12,4 +11,3 @@ namespace BlazingPizzaSite.Model
         public string GetFormattedBasePrice() => BasePrice.ToString();
     }
 }
-
